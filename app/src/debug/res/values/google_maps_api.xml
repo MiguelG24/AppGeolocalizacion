@@ -1,0 +1,25 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=4D:FF:35:A0:63:F7:31:93:2D:04:C3:27:41:4C:89:EF:D5:4D:FE:0B%3Bcom.dmovil.appgeolocalizacion
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.dmovil.appgeolocalizacion
+
+    SHA-1 certificate fingerprint:
+    4D:FF:35:A0:63:F7:31:93:2D:04:C3:27:41:4C:89:EF:D5:4D:FE:0B
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <!--Se añade la clave de Google  Maps-->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBp_W8EPrDeSeMz53p_BdM4jNKtvwGTSMs</string>
+</resources>
